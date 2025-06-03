@@ -4,11 +4,11 @@
 
 Descarga los siguientes archivos:
 
-- `Speaker.bot-x64-0.1.5.zip`
-- `Streamer.bot-x64-0.2.8.zip`
-- `Kick.bot-v1.0.0.0.zip`
-- `YouTube-Music-3.9.0.exe`
-- `Downstream Keyer`
+- `Speaker.bot-x64-0.1.5.zip` https://speaker.bot/get-started/installation
+- `Streamer.bot-x64-0.2.8.zip` https://streamer.bot/
+- `Kick.bot-v1.0.0.0.zip` https://github.com/Sehelitar/Kick.bot/releases/tag/v1.0.0
+- `YouTube-Music-3.9.0.exe` https://github.com/th-ch/youtube-music/releases
+- `Downstream Keyer` https://obsproject.com/forum/resources/downstream-keyer.1254/
 
 ---
 
