@@ -1,5 +1,8 @@
 # Guía de configuración: Streamer.bot + Kick + OBS + Speaker.bot + YouTube Music
 
+## Video Tutorial: [Youtube](http-Youtube)
+
+
 ## Requisitos previos
 
 Descarga los siguientes archivos:
