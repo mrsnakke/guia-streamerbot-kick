@@ -15,15 +15,15 @@ Descarga los siguientes archivos:
 ## 1. Preparar la carpeta principal
 
 1. Crea una carpeta llamada `Streamerbot`.
-2. Extrae el contenido de `Speaker.bot-x64-0.1.5.zip` en esa carpeta.
+2. Extrae el contenido de `Streamer.bot-x64-0.2.8.zip` en esa carpeta.
 3. Dentro de `Streamerbot`, crea una subcarpeta llamada `speakerbot`.
-4. Extrae `Streamer.bot-x64-0.2.8.zip` dentro de la subcarpeta `speakerbot`.
+4. Extrae `Speaker.bot-x64-0.1.5.zip` dentro de la subcarpeta `speakerbot`.
 
 ---
 
 ## 2. Inicializar archivos
 
-1. Ejecuta `speaker.bot.exe` en ambas carpetas una vez y ciérralos para generar archivos necesarios.
+1. Ejecuta `speaker.bot.exe` y `streamer.bot.exe` una vez y ciérralos para generar archivos necesarios.
 
 ---
 
