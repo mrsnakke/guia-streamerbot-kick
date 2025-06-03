@@ -166,4 +166,4 @@ _Repite este proceso para cada nuevo canje._
 
 ---
 
-Guía creada y adaptada por [Tu Nombre o Alias]
+Guía creada y adaptada por MrSnakeVT
